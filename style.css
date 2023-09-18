@@ -29,3 +29,23 @@ a {
     color: #8A2BE2;
     text-decoration: none;
 }
+
+.main_header {
+    width: 100%;
+    height: 33.33vh;
+    background-image: url("img/subtle-prism.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: black;
+}
+
+img {
+    width: 50vw;
+}
+
+article {
+    border-radius: 5px;
+    color: black;
+    line-height: 150%;
+}
